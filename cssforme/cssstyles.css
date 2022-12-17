@@ -58,7 +58,7 @@ h3{
    bottom: 275px;
 }
 .left{
-    margin-right: 900px;
+    text-align: left;
 
 }
 .skill-row{
@@ -73,7 +73,7 @@ h3{
    inline-size: 2;
 }
 .right{
-    margin-left: 900px;
+    text-align: right;
 
 }
 hr {
@@ -148,4 +148,11 @@ p {
     
     width: 500px;
     margin: auto auto 40px auto;
+}
+.oneppp{
+    width: 500px;
+    text-align: left;
+    margin: auto;
+   position: relative;
+   bottom: 275px;
 }
